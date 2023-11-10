@@ -7,8 +7,10 @@ O código app.py contém o código usado para realizar o processamento das image
 
 O código app2.py realiza a implementação do KMeans com a sklearn.cluster a qual tem um desempenho melhor para o processamento das imagens.
 
+## Relatório PDF:
+https://drive.google.com/file/d/1PDxSqQ5T55wFCZYMLUAK2vSq0jJxXOQL/view?usp=sharing
 
-Colab com as tentativas e imagens segmentadas:
+## Colab com as tentativas e imagens segmentadas:
 
 https://colab.research.google.com/drive/1yKLP8bogF7hRTOeSwNdeBNRVMbQwblU2?usp=sharing
 
